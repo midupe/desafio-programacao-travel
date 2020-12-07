@@ -27,7 +27,7 @@ Elaboração de um programa em qualquer linguagem que satisfaça os seguintes re
 
 2. https://www.w3schools.com/python/
 
-## Souções
+## Soluções
 Estão disponibilizadas 3 soluções com diferentes níveis (em `Python`).
 1. [Standard](./soluções/travel_standard.py) - Apenas implementado as funcionalidades mais básicas
 2. [Simplified](./soluções/travel_simplified.py) - Cumpre os principais requisitos
