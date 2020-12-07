@@ -1,6 +1,6 @@
 # Desafio de programação #1 - Travel
 
-Criar um programa que calcula a duração de uma viagem apartir de uma dada hora de partida e chegada.
+Criar um programa que calcula a duração de uma viagem a partir de uma dada hora de partida e chegada.
 
 ## Problema
 Elaboração de um programa em qualquer linguagem que satisfaça os seguintes requisitos:
