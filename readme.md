@@ -3,7 +3,7 @@
 Criar um programa que calcula a duração de uma viagem apartir de uma dada hora de partida e chegada.
 
 ## Problema
-Elaboração de um programa em qualquer linguagem que satisfaça os seguintes pontos:
+Elaboração de um programa em qualquer linguagem que satisfaça os seguintes requisitos:
 1. Ler a hora de partida e de chegada de uma viagem e apresentar a duração.
 
 2. A partida, a chegada e a duração são indicados em horas (0..23), minutos e segundos (0..59).
