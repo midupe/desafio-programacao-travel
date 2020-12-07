@@ -30,7 +30,7 @@ Elaboração de um programa em qualquer linguagem que satisfaça os seguintes re
 ## Soluções
 Estão disponibilizadas 3 soluções com diferentes níveis (em `Python`).
 1. [Standard](./soluções/travel_standard.py) - Apenas implementado as funcionalidades mais básicas
-2. [Simplified](./soluções/travel_simplified.py) - Cumpre os principais requisitos
+2. [Advanced](./soluções/travel_advanced.py) - Cumpre os principais requisitos
 3. [Expert](./soluções/travel_expert.py) - Todos os requisitos cumpridos e alguns bónus
 
 ## Referências
