@@ -29,7 +29,7 @@ Elaboração de um programa em qualquer linguagem que satisfaça os seguintes re
 
 ## Souções
 Estão disponibilizadas 3 soluções com diferentes níveis (em `Python`).
-1. Standard - Apenas implementado as funcionalidades mais básicas
+1. Standard [here](./soluções/travel_simplified.py) - Apenas implementado as funcionalidades mais básicas
 2. Simplified - Cumpre os principais requisitos
 3. Expert - Todos os requisitos cumpridos e alguns bónus
 
